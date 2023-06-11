@@ -7,4 +7,4 @@ El sistema fue creado en ACCESS. Sin embargo, para mejorar aun mas las funcional
 Puede encontrar mas informacion en el la carpeta "manual de usuario".
 
 # Algunas capturas del programa
-![Alt text](readme-contenido/main-page.jpg?raw=true "pantalla principal")
+![Alt text](readme-contenido/main-page.png?raw=true "pantalla principal")
